@@ -42,4 +42,5 @@ Housing a detailed catalog of products, this table includes information on produ
 This structured and relational database schema forms the backbone of our project’s data management capabilities. It is meticulously designed to encapsulate critical business operations, ensuring data integrity and availability across various operational domains. An astute arrangement of primary and foreign keys facilitates the interconnection among tables, enabling complex queries and comprehensive data analyses that support informed decision-making and operational efficiency.
 
 
-
+# Project Notebook:-
+Please find the attached project containing various insights accompanied by visualizations. I utilized Matplotlib, a powerful visualization library, along with pandas for data manipulation as needed. You can <a href="https://drive.google.com/file/d/1Mhfsa9D2BVhoed9JFyF-7byGby35T7T8/view?usp=drive_link">click here</a> to view the project in pdf format or <a href="https://drive.google.com/file/d/17mutV7S9RTWnC4hYmwOP1bQSaNI8TImb/view?usp=drive_link">click here</a> for .ipynb file 

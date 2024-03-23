@@ -40,3 +40,6 @@ Housing a detailed catalog of products, this table includes information on produ
 
 ## Summary
 This structured and relational database schema forms the backbone of our project’s data management capabilities. It is meticulously designed to encapsulate critical business operations, ensuring data integrity and availability across various operational domains. An astute arrangement of primary and foreign keys facilitates the interconnection among tables, enabling complex queries and comprehensive data analyses that support informed decision-making and operational efficiency.
+
+
+

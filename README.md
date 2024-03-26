@@ -43,4 +43,4 @@ This structured and relational database schema forms the backbone of our project
 
 
 # Project Notebook:-
-Please find the attached project containing various insights accompanied by visualizations. I utilized Matplotlib, a powerful visualization library, along with pandas for data manipulation as needed. You can <a href="https://drive.google.com/file/d/1AqU_R7-wjiU2OZE-ToEIm5lP8S9d91PX/view?usp=drive_link">click here</a> to view the notebook.
+Please find the attached project containing various insights accompanied by visualizations. I utilized Matplotlib, a powerful visualization library, along with pandas for data manipulation as needed. You can <a <a href="https://github.com/Niranjin/SQL-Projects/blob/main/Analysing%20employee%20performance%20and%20customer%20trends%20in%20a%20music%20store/Sales%20analysis.ipynb">Click here</a> to view the notebook.
